@@ -1,4 +1,4 @@
-package com.example.asmspb.entity;
+package com.example.assignmentspringboot.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,7 +1,7 @@
-package com.example.asmspb.service;
+package com.example.assignmentspringboot.service;
 
-import com.example.asmspb.entity.District;
-import com.example.asmspb.repository.DistrictRepository;
+import com.example.assignmentspringboot.entity.District;
+import com.example.assignmentspringboot.repository.DistrictRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

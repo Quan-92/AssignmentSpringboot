@@ -1,4 +1,4 @@
-package com.example.asmspb.entity.enums;
+package com.example.assignmentspringboot.entity.enums;
 
 public enum RoadStatus {
     ACTIVE(1), UNDER_CONSTRUCTION(0),UNDER_REPAIR(-1), UNDEFINED(-2);

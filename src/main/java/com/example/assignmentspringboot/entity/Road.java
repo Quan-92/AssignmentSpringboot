@@ -1,6 +1,6 @@
-package com.example.asmspb.entity;
+package com.example.assignmentspringboot.entity;
 
-import com.example.asmspb.entity.enums.RoadStatus;
+import com.example.assignmentspringboot.entity.enums.RoadStatus;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

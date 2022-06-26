@@ -1,6 +1,6 @@
-package com.example.asmspb.repository;
+package com.example.assignmentspringboot.repository;
 
-import com.example.asmspb.entity.Road;
+import com.example.assignmentspringboot.entity.Road;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

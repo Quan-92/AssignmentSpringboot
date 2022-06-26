@@ -1,4 +1,4 @@
-package com.example.asmspb.exception;
+package com.example.assignmentspringboot.exception;
 
 public class NotFoundException extends RuntimeException{
     public NotFoundException(String message) {

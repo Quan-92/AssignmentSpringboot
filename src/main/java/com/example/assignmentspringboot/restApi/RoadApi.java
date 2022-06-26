@@ -1,8 +1,8 @@
-package com.example.asmspb.restApi;
+package com.example.assignmentspringboot.restApi;
 
-import com.example.asmspb.entity.District;
-import com.example.asmspb.entity.Road;
-import com.example.asmspb.service.RoadService;
+import com.example.assignmentspringboot.entity.District;
+import com.example.assignmentspringboot.entity.Road;
+import com.example.assignmentspringboot.service.RoadService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
